@@ -3,5 +3,5 @@ Git is a free software
 Git has a mutable index called stage.
 edit by jinzhuang.xie
 Git tracks changes of files.
-use branch.
+use branch to fix bug.
 Creating a new branch is quick and simple.
